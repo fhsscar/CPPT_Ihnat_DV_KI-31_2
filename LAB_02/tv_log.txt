@@ -1,0 +1,11 @@
+TV initialized with default settings.
+TV initialized with channel: 1, volume: 20
+Channel changed to: 5
+Volume changed to: 50
+Volume increased to: 51
+Volume decreased to: 50
+TV turned OFF.
+TV turned ON.
+Volume changed to: 30
+Channel changed to: 10
+Logger closed.
