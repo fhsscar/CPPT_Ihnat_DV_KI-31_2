@@ -1,0 +1,2 @@
+TV initialized with default settings.
+Logger closed.
