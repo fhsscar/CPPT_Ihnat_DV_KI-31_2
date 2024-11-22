@@ -1,0 +1,20 @@
+INFO:root:TV initialized with default settings
+INFO:root:TV turned ON
+INFO:root:Channel changed to: 5
+INFO:root:Volume changed to: 20
+INFO:root:TV initialized with default settings
+INFO:root:SmartTV initialized with internet connectivity
+INFO:root:TV turned ON
+INFO:root:Internet connected
+INFO:root:Channel changed to: 10
+INFO:root:Volume changed to: 15
+INFO:root:TV initialized with default settings
+INFO:root:TV turned ON
+INFO:root:Channel changed to: 5
+INFO:root:Volume changed to: 20
+INFO:root:TV initialized with default settings
+INFO:root:SmartTV initialized with internet connectivity
+INFO:root:TV turned ON
+INFO:root:Internet connected
+INFO:root:Channel changed to: 10
+INFO:root:Volume changed to: 15
