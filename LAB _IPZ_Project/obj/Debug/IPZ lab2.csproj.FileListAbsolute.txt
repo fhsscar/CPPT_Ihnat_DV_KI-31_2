@@ -1,0 +1,44 @@
+C:\Users\Acer\source\repos\IPZ lab2\bin\Debug\IPZ lab2.exe.config
+C:\Users\Acer\source\repos\IPZ lab2\bin\Debug\IPZ lab2.exe
+C:\Users\Acer\source\repos\IPZ lab2\bin\Debug\IPZ lab2.pdb
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\IPZ lab2.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\IPZ lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\AppointmentForm.resources
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\LoginForm.resources
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\MainForm.resources
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\IPZ_lab2.Properties.Resources.resources
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\RegisterForm.resources
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\ViewAppointmentsForm.resources
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\IPZ lab2.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\IPZ lab2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\IPZ lab2.exe
+C:\Users\Acer\source\repos\IPZ lab2\obj\Debug\IPZ lab2.pdb
+C:\Users\User\Downloads\IPZ lab2\bin\Debug\IPZ lab2.exe.config
+C:\Users\User\Downloads\IPZ lab2\bin\Debug\IPZ lab2.exe
+C:\Users\User\Downloads\IPZ lab2\bin\Debug\IPZ lab2.pdb
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\IPZ lab2.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\AppointmentForm.resources
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\LoginForm.resources
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\MainForm.resources
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\IPZ_lab2.Properties.Resources.resources
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\RegisterForm.resources
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\ViewAppointmentsForm.resources
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\IPZ lab2.csproj.GenerateResource.cache
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\IPZ lab2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\IPZ lab2.exe
+C:\Users\User\Downloads\IPZ lab2\obj\Debug\IPZ lab2.pdb
+C:\Users\Acer\Desktop\IPZ lab2\bin\Debug\IPZ lab2.exe.config
+C:\Users\Acer\Desktop\IPZ lab2\bin\Debug\IPZ lab2.exe
+C:\Users\Acer\Desktop\IPZ lab2\bin\Debug\IPZ lab2.pdb
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\IPZ lab2.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\IPZ lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\AppointmentForm.resources
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\LoginForm.resources
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\MainForm.resources
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\IPZ_lab2.Properties.Resources.resources
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\RegisterForm.resources
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\ViewAppointmentsForm.resources
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\IPZ lab2.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\IPZ lab2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\IPZ lab2.exe
+C:\Users\Acer\Desktop\IPZ lab2\obj\Debug\IPZ lab2.pdb
